@@ -21,7 +21,7 @@
         <disruptor.version>3.4.2</disruptor.version>
 
         <guava.version>23.0</guava.version>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.56</fastjson.version>
 
         <nexus.host>106.14.212.70:8081</nexus.host>
 
